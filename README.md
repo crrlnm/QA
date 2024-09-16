@@ -1,4 +1,4 @@
-﻿# Technical QA internship task
+﻿# QA automated test
 This project contains a basic automated test suite to test an online shop using Python with Playwright framework.
 
 ## Prerequisites
